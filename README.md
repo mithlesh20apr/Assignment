@@ -1,4 +1,4 @@
-# Pizza API
+# Pizza API & Client
 
 ## /users
 New users can be created, their information can be edited, and they can be deleted. We should store their name, email address, and street address.
