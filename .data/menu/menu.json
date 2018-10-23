@@ -1,4 +1,4 @@
-{
+var menu = {
     "Margarita": {
         "price": 100,
         "ingredients": [
@@ -69,3 +69,5 @@
         ]
     }
 }
+
+module.exports = menu;
